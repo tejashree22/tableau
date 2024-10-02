@@ -9,6 +9,9 @@ This project provides a comprehensive data visualization dashboard for British A
 You can view the live Tableau dashboard here:
 [British Airways Dashboard on Tableau Public](https://public.tableau.com/shared/H2SNM3F9B?:display_count=n&:origin=viz_share_link)
 
+![image](https://github.com/user-attachments/assets/8695a836-b5ea-48a7-8a2f-189c9b2fee8d)
+
+
 **Tools and Technologies:**
 
 Tableau Public: For creating interactive dashboards and visualizations.
